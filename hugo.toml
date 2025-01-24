@@ -1,7 +1,7 @@
 baseURL = "https://lightbi-hugo-theme.netlify.app/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-languageCode = "en-us"
+languageCode = "es"
 title = "Lightbi"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
@@ -26,8 +26,8 @@ selfHosted = true
 mainSections = ["post","posts"]
 dateFormat = "02 January 2006"
 comments = false
-readingTime = false
-wordCount = false
+readingTime = true
+wordCount = true
 useHLJS = true
 socialShare = true
 delayDisqus = true
@@ -44,8 +44,8 @@ previewCardImagePlacement = "bottom"
 showPostImage = false
 
 [Params.Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://www.binovarghese.com/"
+  name = "Volker Kerkhoff"
+  website = "https://ea7klk.es"
   authorInfo = "Live your life as though every moment matters, because in the end, it's not the years in your life, but the life in your years that counts."
   authorPostImage = "/img/author-post-img.jpg"
   email = "sample@gmail.com"

@@ -5,9 +5,9 @@
     <link>http://localhost:1313/about/</link>
     <description>Recent content in About me on Lightbi</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
-    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <language>es</language>
+    <managingEditor>sample@gmail.com (Volker Kerkhoff)</managingEditor>
+    <webMaster>sample@gmail.com (Volker Kerkhoff)</webMaster>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>

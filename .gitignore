@@ -1,0 +1,35 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Configuration files and backups
+hugo_stats.json
+*.toml~
+*.yaml~
+*.yml~
+*.json~
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Netlify and deployment files
+netlify.toml
+.env
+.env.*
+
+# Node modules (if using npm or yarn)
+node_modules/
+
+# Hugo themes (if not committing the theme)
+themes/*
+
+# Exclude custom temporary or IDE files
+.idea/
+.vscode/
+*.iml

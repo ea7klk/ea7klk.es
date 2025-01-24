@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on EA7KLK</title>
+    <link>http://localhost:1313/about-copy/</link>
+    <description>Recent content in About me on EA7KLK</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/about-copy/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

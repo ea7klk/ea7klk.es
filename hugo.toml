@@ -1,5 +1,5 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
-DefaultContentLanguage = "en"
+baseURL = "https://test.ea7klk.es/"
+DefaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 languageCode = "es"
 title = "Lightbi"
@@ -77,27 +77,27 @@ showPostImage = false
   # codepen = "username"
 
 [[menu.main]]
-    name = "Home"
+    name = "Principal"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
+    name = "Notas"
     url = "/notes/"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
+    name = "Etiquetas"
     url = "/tags/blog/"
     weight = 3
 
 [[menu.main]]
-    name = "Collections"
+    name = "Colecciones"
     url = "/collections/"
     weight = 4
 
 [[menu.main]]
-    name = "About"
+    name = "Acerca de mi"
     url = "/about/"
     weight = 5
 

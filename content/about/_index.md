@@ -1,7 +1,7 @@
 ---
 type : "tags"
 layout : "about"
-title: "About me"
+title: "Acerca de mi"
 ---
 
 I am Bino Kochumol Varghese.

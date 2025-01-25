@@ -1,12 +1,12 @@
 ---
 title: Who am I ?!
-date: 2020-01-01
-tags: ["stoicism"]
-image : "/img/posts/img-0.jpg"
-Description  : "Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found..."
+date: 2025-01-25
+image: /img/posts/img-0.jpg
+Description: Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found...
+tags:
+  - stoicism
 ---
 Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.
-
 
 {{< rawhtml >}}
 <div id="calculator-container" style="font-family: var(--bs-body-font-family); text-align: center;"></div>
@@ -28,8 +28,8 @@ document.addEventListener("DOMContentLoaded", () => {
             <button type="button" id="calculateEIRPButton">Calcula</button>
         </form>
 
-        <h2 style="font-weight: normal;">Resultado</h2>
-        <p id="eirpResult" style="font-weight: bold;">La potencia radiada después de las pérdidas por ROE es de: </p>
+        <h2 style="font-weight: normal;">Resultado
+        <p id="eirpResult" style="font-weight: bold;">La potencia radiada después de las pérdidas por ROE es de: </p></h2>
     `;
 
     document.getElementById("calculateEIRPButton").addEventListener("click", () => {

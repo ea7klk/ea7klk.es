@@ -32,7 +32,7 @@ pagerSize = 6
 [Params]
 selfHosted = true
 mainSections = ["post","posts"]
-dateFormat = "2 de enero, 2006"
+dateFormat = "2 de enero de 2006"
 comments = false
 readingTime = true
 wordCount = true
@@ -47,7 +47,7 @@ lastmod = false
 rss = false
 pagination = "10"
 hideAuthor = false
-description="Your can add your website description here."
+description="Mi rincón de radioafición."
 previewCardImagePlacement = "bottom"
 showPostImage = false
 
@@ -96,11 +96,11 @@ showPostImage = false
 
 [[menu.main]]
     name = "Etiquetas"
-    url = "/tags/blog/"
+    url = "/tags/"
     weight = 3
 
 [[menu.main]]
-    name = "Colecciones"
+    name = "Enlaces"
     url = "/collections/"
     weight = 4
 
@@ -111,7 +111,7 @@ showPostImage = false
 
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 

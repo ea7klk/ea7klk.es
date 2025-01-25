@@ -18,6 +18,14 @@ enableGitInfo = false
 summaryLength  = "30"
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[languages]
+  [languages.es]
+    LanguageCode  = "es"
+    LanguageName = "Español"
+    weight = 1
+    title ="EA7KLK - Blog de radioafición"
+    contentDir = "content"
+
 [pagination]
 pagerSize = 6
 
